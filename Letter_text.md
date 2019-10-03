@@ -18,9 +18,6 @@ Please let us know if you have any questions.
 Sincerely, 
  
  
-Mentor/PTL/others, or
+OPNFV TSC Chair/Mentor/PTL/others, or
 
-Min Yu 
-Operations Manager 
-The Linux Foundation 
-myu@linuxfoundation.org 
+ 
